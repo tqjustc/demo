@@ -17,6 +17,7 @@ int main()
 	averge = sum / 4;
 	cout << "sum = " << sum <<endl;
 	cout << "averge = " << average << endl;
+	cout << "smallest = " << small << endl;
 	cout << "hello world." <<endl;
 	return 0;
 }
